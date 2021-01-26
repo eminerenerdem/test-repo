@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EEFB-6A1D
+
+ Directory of C:\Users\erene\Desktop\dummy-git
+
+01/26/2021  04:41 PM    <DIR>          .
+01/26/2021  04:41 PM    <DIR>          ..
+01/26/2021  04:41 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  129,655,455,744 bytes free
